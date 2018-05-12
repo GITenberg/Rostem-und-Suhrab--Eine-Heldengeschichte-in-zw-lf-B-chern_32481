@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35871
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_R%C3%BCckert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32481#Rostem-und-Suhrab--Eine-Heldengeschichte-in-zw-lf-B-chern
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2010-05-22'
 gutenberg_type: Text
