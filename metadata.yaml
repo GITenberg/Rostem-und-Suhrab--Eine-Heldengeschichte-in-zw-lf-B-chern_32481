@@ -1,0 +1,32 @@
+_repo: Rostem-und-Suhrab--Eine-Heldengeschichte-in-zw-lf-B-chern_32481
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rückert, Friedrich
+    aliases:
+    - Ruckert, Friedrich
+    - Rueckert, Friedrich
+    - Rückert, Johann Michael Friedrich
+    birthdate: 1788
+    deathdate: 1866
+    gutenberg_agent_id: '35871'
+    url: http://www.gutenberg.org/2009/agents/35871
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_R%C3%BCckert
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2010-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32481'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 19th century'
+title: 'Rostem und Suhrab: Eine Heldengeschichte in zwölf Büchern'
+url: http://www.gutenberg.org/ebooks/32481
